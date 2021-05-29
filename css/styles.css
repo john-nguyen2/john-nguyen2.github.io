@@ -9907,6 +9907,10 @@ button.bg-black:focus {
   color: #674f30 !important
 }
 
+.text-tan {
+  color: #EADED4 !important
+}
+
 .text-dark-brown {
   color: #624E4B !important
 }
@@ -10216,7 +10220,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 80%, #343a40 100%), url("../assets/img/splash2.ai");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 80%, #343a40 100%), url("../assets/img/aftercare.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;

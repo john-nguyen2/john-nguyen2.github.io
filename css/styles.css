@@ -10220,7 +10220,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 80%, #343a40 100%), url("../assets/preview.mov");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.5) 80%, #343a40 100%), url("../assets/stockvideo.mp4");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11331,7 +11331,7 @@ section {
 }
 
 .services .iconbox-tan i {
-  color: #ffbb2c;
+  color: #ceac90;
 }
 
 .services .iconbox-tan:hover .icon i {
@@ -11339,7 +11339,7 @@ section {
 }
 
 .services .iconbox-tan:hover .icon path {
-  fill: #ffbb2c;
+  fill: #ceac90;
 }
 
 .services .iconbox-pink i {
